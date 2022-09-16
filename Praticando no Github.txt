@@ -1,2 +1,3 @@
 Iniciando um repositório.
 Vai dá tudo certo.
+O segredo é persistir.
