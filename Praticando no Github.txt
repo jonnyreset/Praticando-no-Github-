@@ -1,2 +1,6 @@
 Iniciando um repositório.
+<<<<<<< HEAD
 A pratica leva a perfeição.
+=======
+Vai dá tudo certo.
+>>>>>>> staging
