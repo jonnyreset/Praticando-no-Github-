@@ -1,6 +1,11 @@
 Iniciando um repositório.
-<<<<<<< HEAD
-A pratica leva a perfeição.
-=======
+ staging
 Vai dá tudo certo.
->>>>>>> staging
+O segredo é persistir.
+
+HEAD
+A pratica leva a perfeição.
+
+Vai dá tudo certo.
+staging
+ master
